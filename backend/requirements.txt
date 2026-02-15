@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+openai-whisper
+python-multipart
+pydantic-settings
+sentence-transformers
+scikit-learn
+numpy
+librosa
+soundfile
+boto3
